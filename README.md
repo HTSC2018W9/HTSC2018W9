@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTSC2018W9)](https://github.com/HTSC2018W9/github-readme-stats)
 <!--
 **HTSC2018W9/HTSC2018W9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
